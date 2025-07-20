@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there, I'm Viveca Antony 👋
 
-<!--
-**Viveca-62/Viveca-62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me: 
+I'm a Java Full Stack Developer with a growing interest in Python, Machine Learning, and Web Development. I love building meaningful projects that combine creative UI designs with practical functionality.
 
-Here are some ideas to get you started:
+Skills:
+- **Languages:** Java, Python, HTML, CSS, JavaScript, SQL
+- **Frameworks & Tools:** Flask, Servlets, JSP, Dashboards, Git
+- **Areas of Interest:** Web Development, AI/ML, Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects Highlights:
+- **Wellness & Care App:** Mood tracker with personalized suggestions.
+- **Credit Card Risk Management:** Machine learning project for fraud detection.
+
+Let's Connect: 
+- **LinkedIn:** www.linkedin.com/in/vivecaantonyp04
+- **Email:** antonyviveca@gmail.com
+
+ “Always learning, always building cool stuff!”
+
